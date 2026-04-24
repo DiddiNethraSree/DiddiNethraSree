@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🎓 I am Nethra Sree **B.Tech Computer Science graduate** passionate about **Machine Learning, Data Science, and Software Development**.
+🎓 I am Nethra Sree, **B.Tech Computer Science graduate** passionate about **Machine Learning, Data Science, and Software Development**.
 
 🔭 I recently worked on  
 my final-year major project **Face Recognition CCTV Attendance System** using **Python and machine learning**.
