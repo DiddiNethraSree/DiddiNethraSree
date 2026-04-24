@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-🎓 Final-year **B.Tech Computer Science student** passionate about **Machine Learning, Data Science, and Software Development**.
+🎓 I am Nethra Sree **B.Tech Computer Science graduate** passionate about **Machine Learning, Data Science, and Software Development**.
 
-🔭 I’m currently working on  
-A final-year **Face Recognition CCTV Attendance System** using **Python and machine learning**.
+🔭 I recently worked on  
+my final-year major project **Face Recognition CCTV Attendance System** using **Python and machine learning**.
 
 👯 I’m looking to collaborate on  
 **Python, ML, Data Science**, and beginner-friendly **open-source projects**.
