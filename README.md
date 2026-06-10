@@ -37,6 +37,15 @@ Git • GitHub • Flask • MySQL
 
 ## 💼 Featured Projects
 
+### 🔹 Video RAG Analyst
+
+* Cross-platform content comparison (YouTube & Instagram) using **Retrieval-Augmented Generation (RAG)**
+* Powered by **FastAPI, LangChain, ChromaDB, and Google Gemini API**
+* Features real-time streaming chat, source citation, and custom metadata overrides
+  👉 [View Project](https://github.com/DiddiNethraSree/Rag_Chatbot) | [Live Demo](https://rag-chatbot-phi-six.vercel.app/)
+
+---
+
 ### 🔹 Automated Face Recognition Attendance System
 
 * Real-time attendance using **OpenCV & ML**
@@ -78,7 +87,6 @@ Git • GitHub • Flask • MySQL
 ---
 
 ⭐ *“Turning ideas into real-world applications through code.”*
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
