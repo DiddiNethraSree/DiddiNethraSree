@@ -6,7 +6,7 @@
 💡 Passionate about Machine Learning, Data Science & Software Development
 🚀 Building real-world projects using Python, ML & Web Technologies
 
-🌐 **Portfolio:** https://diddi-nethra-sree-609kkvh.gamma.site/
+🌐 **Portfolio:** [https://diddi-nethra-sree-609kkvh.gamma.site/](https://portfolio-gamma-lilac-85.vercel.app/)
 ---
 
 ## 🚀 About Me
